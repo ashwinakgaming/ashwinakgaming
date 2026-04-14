@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
 
-<!--
-**ashwinakgaming/ashwinakgaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineering Student passionate about Robotics, Embedded Systems, and IoT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Embedded Systems (Arduino, ESP32)
+* Robotics & Automation
+* Sensor Integration (IR, MPU6050, GPS, Ultrasonic)
+* IoT Systems
+
+---
+
+## 🔧 Projects
+
+* Smart Safety Band (ESP32-based wearable system)
+* Autonomous Rescue Drone
+* Smart Battery Disposal System
+* Line Follower Robot
+* Joystick Direction Control System
+
+---
+
+## 🧠 Areas of Interest
+
+* Robotics
+* Automation
+* Embedded Systems
+* IoT-based Solutions
+
+---
+
+## 📫 Contact
+
+* Location: Chennai
